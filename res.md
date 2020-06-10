@@ -7,12 +7,12 @@
 # layouts
 
 
-## formatting
+# formatting
 
-### organization
+## organization
 
 
-#### curriculum maps
+### curriculum maps
 
 **additionally, realize there are five opportunities each day** 
 
